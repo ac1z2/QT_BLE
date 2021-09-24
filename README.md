@@ -1,4 +1,4 @@
-# Aufgabenstellung: QT Treiber für BLE uart service
+#  QT Treiber für BLE uart service
 
  Für unsere BLE (Bluetooth low energy) basierten EMG und IMU Sensoren möchten wir gerne basierend auf QT Treiber entwickeln, mit denen man die Daten auslesen und speichern kann. Hierfür müssen die folgenden Punkte bearbeitet werden: 
 
